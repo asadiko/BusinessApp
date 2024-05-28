@@ -15,7 +15,7 @@ Follow these steps to install the project:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/asadiko/BusinessApp.git
 ```
 
 2. Navigate to the project directory:
